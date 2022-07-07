@@ -1,0 +1,26 @@
+#mang {
+    background-color: rgb(234, 224, 244);
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+}
+#ds {
+    background-color: blueviolet;
+    list-style-type: none ;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+li {
+    float: left;
+    margin: 10px;
+    color: white;
+
+}
+#ten {
+    padding: 0px;
+    margin: 0px;
+}
+
